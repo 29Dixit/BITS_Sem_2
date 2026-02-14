@@ -1,3 +1,13 @@
+Assignment 2: ML System Optimization (S1-25_AIMLCZG516)
+By: Group 49
+BITS ID	Name	Contribution
+2024ac05027	SIDHARATH TIKOO 
+2024ac05752	KHANDELWAL DIXIT
+2024ac05176	THEODAR A 
+2024ac05309	VARADARAJAN.G 	
+2024ac05119	SOURABH KUMAR	
+
+
 This work studies the parallelization of Logistic Regression training using Mini-Batch Gradient Descent on multi-core CPU systems. The objective is to reduce training time while maintaining prediction accuracy. 
 
 Parallel Logistic Regression Training Setup Guide
